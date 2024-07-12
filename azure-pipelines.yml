@@ -20,4 +20,4 @@ steps:
       script: |
         # Write your commands here
         
-        echo '$(Storage_name)'
+        echo 'Hriyen is using $(Storage_name)'
